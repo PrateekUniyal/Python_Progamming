@@ -19,3 +19,12 @@ print(type(myTuple))
 print(type(my_tuple))
 my_tuple = (100,)
 print(type(my_tuple))
+
+#index operator
+
+str = "Hello"
+print(str)
+print(str[0])
+print(str[4])
+print(myList[2])
+print(str[len(str)-1])
