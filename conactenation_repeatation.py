@@ -6,3 +6,4 @@ print(s.index("n"))
 song = "The rain in Spain"
 wds = song.split()
 print(wds)
+print(song.split('a'))
