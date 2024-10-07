@@ -21,3 +21,5 @@ tess.forward(80)
 tess.left(120)
 # alex.salary = 50000
 print("Alex made a rectangle")
+
+wn.exitonclick()
