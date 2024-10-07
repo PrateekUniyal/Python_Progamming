@@ -26,7 +26,7 @@ print(pi)
 
 x = 2
 print(x)
-x = 10
+x = 12
 print(x)
 
 this_is_variable = "This value is inside a variable having underscore"
