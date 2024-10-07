@@ -15,3 +15,6 @@ x = 2
 print (x)
 x = x + 1 + 1
 print(x)
+x = 4
+x += 1
+print(x)
