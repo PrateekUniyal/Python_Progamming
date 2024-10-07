@@ -28,3 +28,6 @@ print(str[0])
 print(str[4])
 print(myList[2])
 print(str[len(str)-1])
+
+fruit ="Grape"
+print(fruit[len(fruit)//2])
