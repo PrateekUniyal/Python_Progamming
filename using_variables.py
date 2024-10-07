@@ -9,3 +9,9 @@ b = 4
 length_of_name = len(name)
 print(a+b+length_of_name)
 print(2  + len("abc") + len("xyz"))
+
+#Updating variables
+x = 2
+print (x)
+x = x + 1 + 1
+print(x)
