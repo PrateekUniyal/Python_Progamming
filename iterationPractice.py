@@ -20,7 +20,7 @@ for i in range(1,11):
 
 # program to print the even numbers
 
-n = int(input("Please eneter a  number to find even numbers and odd numbers "))
+n = int(input("Please enter a  number to find even numbers and odd numbers "))
 for i in range(0,n+1):
     if i % 2 == 0:
         print(i," is even")
