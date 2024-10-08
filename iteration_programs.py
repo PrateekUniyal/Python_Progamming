@@ -14,4 +14,3 @@ for acolor in ["Yellow", "Red", "Green","Black"]:
     alex.left(90)
 
 wn.exitonclick()
-
