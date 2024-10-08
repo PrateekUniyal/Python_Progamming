@@ -18,5 +18,12 @@ for i in range(1,11):
     mult =num * i
     print(num,"X",i,"=",mult)
 
+# program to print the even numbers
 
+n = int(input("Please eneter a  number to find even numbers and odd numbers "))
+for i in range(0,n+1):
+    if i % 2 == 0:
+        print(i," is even")
+    else:
+        print(i," is odd")
 
