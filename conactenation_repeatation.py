@@ -7,3 +7,8 @@ song = "The rain in Spain"
 wds = song.split()
 print(wds)
 print(song.split('a'))
+# split function is used to split the string into separate items of a sequence
+wds = ["red", "blue", "green"]
+glue =':'
+str = glue.join(wds)
+print(str)
