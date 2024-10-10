@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 #Basics of Python
 #---------------------------------------------------------------------
+=======
+#basics of Python
+#--------------------------------------------------------
+
+>>>>>>> main
 # print(100)
 # print("Hello World!")
 # print(3.14)
@@ -27,8 +33,9 @@ print(pi)
 
 x = 2
 print(x)
-x = 12
+x = 10
 print(x)
 
 this_is_variable = "This value is inside a variable having underscore"
 print(this_is_variable)
+
