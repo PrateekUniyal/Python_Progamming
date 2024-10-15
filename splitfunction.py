@@ -14,3 +14,11 @@ print(num)
 print(new_message)
 print(new_list)
 print(new_numbers1)
+sentence = "abcdefgdhijdklmndz"
+# split_sentence = sentence.split()
+split_sentence = sentence.split('d',2)
+print(split_sentence)
+sentence2 = "She sells sea shells on a sea shore."
+split_sentence2 = sentence2.split("sea")
+print(sentence2)
+print(split_sentence2)
