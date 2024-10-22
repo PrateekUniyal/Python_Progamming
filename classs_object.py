@@ -4,7 +4,7 @@ class this_is_a_class:
             self.name = name
             print(f"We are inside the constructor method\t ---> The {self.name} is created.")
 
-    def display(self,name):
+    def display(self):
         print(f"We are inside the function display with\t ---> {self.name}")
 
 object1 = this_is_a_class("object1")
